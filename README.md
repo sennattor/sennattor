@@ -67,9 +67,13 @@ IFRS 17 · LIC · Life Insurance Cash-Flow Modeling · Non-Life Reserving · Rus
 **Development**  
 Git · GitHub · GitLab
 
-## Current focus
+## Quantitative finance projects
 
-I am currently building my public quantitative-finance portfolio, with an **algorithmic trading project** planned as the first featured repository.
+### [Simple Trading Bot](./projects/simple-trading-bot)
+
+A compact Python backtest of a moving-average crossover strategy with transaction costs, look-ahead-bias protection, buy-and-hold comparison, and core performance metrics including CAGR, Sharpe ratio, and maximum drawdown.
+
+Planned next steps: walk-forward validation, parameter sensitivity analysis, volatility targeting, richer risk metrics, and paper-trading integration.
 
 ## Languages
 
